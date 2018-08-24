@@ -5,7 +5,7 @@ body{
 
 .container{
     z-index: -1;
-    background-image: url("../images/bg.png");
+    background-image: url("unit-4-game/assets/images/bg.png");
     border-radius: 35px;
     box-shadow: 20px 10px;
 }
