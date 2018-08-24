@@ -1,0 +1,71 @@
+body{
+    background-color:peachpuff;
+    z-index: -1;
+    }
+
+.container{
+    z-index: -1;
+    background-image: url("/assets/images/bg.png");
+    border-radius: 35px;
+    box-shadow: 20px 10px;
+}
+
+.gem2{
+    margin-top: 85px;
+    margin-left: 45px;   
+}
+
+.gem3{
+    margin-top: 20px;   
+}
+
+.gem4{
+    margin-top: 115px;  
+}
+h1{
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+    text-shadow: 0 10px 25px palevioletred;
+     
+}
+h2{
+    background-color: peachpuff;
+    border-radius: 25px;
+    padding-left: 20px;
+    box-shadow: 0 0 30px;
+    font-family:  'Baloo Bhai', cursive;
+    
+}
+#ts{
+    padding: 10px 50px;
+    background-color: lightcoral;
+    border-radius: 15px;
+    box-shadow:  10px 10px;
+    font-family:  'Baloo Bhai', cursive;
+    margin-bottom: 25px;
+}
+#ys{
+    padding: 10px 50px;
+    background-color: lightcoral;
+    border-radius: 15px;
+    box-shadow:  10px 10px;
+    font-family:  'Baloo Bhai', cursive;
+}
+#wins{
+    padding: 10px 50px;
+    background-color: clear;
+    border-radius: 50px;
+    box-shadow:  10px 10px;
+    font-family:  'Baloo Bhai', cursive;
+}
+#losses{
+    padding: 10px 40px;
+    background-color:clear;
+    border-radius: 50px;
+    box-shadow:  10px 10px;
+    font-family:  'Baloo Bhai', cursive;
+}
+h4{
+    padding: 0;
+    margin: 0;
+}
